@@ -1,5 +1,7 @@
 # Infrastructure Monitor
 
+[![Infrastructure Monitor CI](https://github.com/Matheus5339/infrastructure-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/Matheus5339/infrastructure-monitor/actions/workflows/ci.yml)
+
 Sistema de monitoramento utilizando Node.js, Prometheus e Grafana com Docker Compose.
 
 ## Tecnologias
